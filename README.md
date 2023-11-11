@@ -7,17 +7,17 @@
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="center" height="30" margin-bottom="1rem" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" height="30" margin-bottom="1rem" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
     <img align="center"  height="30" margin-bottom="1rem" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center"  height="30" margin-bottom="1rem"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center"  height="30" margin-bottom="1rem"  src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
-    
+    <img align="center"  height="30" margin-bottom="1rem"  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
    </div>
 
   ##
  
   
 <div style="display: inline_block"><br>
-    <a href = "mailto:joffre_quintas"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joffre-quintas-b9a769111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      
 <!--   <img align="right" alt="lu-pic" height="150" style="border-radius:50px;"  src="https://share-cdn.picrew.me/shareImg/org/202112/338224_1RcwpQ75.png"> -->
